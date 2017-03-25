@@ -1,0 +1,20 @@
+﻿Der Buildvorgang wurde am 09.01.2017 10:10:19 gestartet.
+     1>Projekt "H:\7. Semester\Spielekonsolenprogrammierung\Project\RubiksCube\RubiksCube\RubiksCube.vcxproj" auf Knoten "2", build Ziel(e).
+     1>InitializeBuildStatus:
+         "PSVita_Debug\RubiksCube.unsuccessfulbuild" wird erstellt, da "AlwaysCreate" angegeben wurde.
+       CustomBuild:
+         Alle Ausgaben sind aktuell.
+       ClCompile:
+         Cube.cpp
+         psp2snc.exe -D_DEBUG -o PSVita_Debug\Cube.o -c -Xdepmode=1 -MD -Xmserrors -I"C:\Program Files (x86)\SCE\PSP2 SDKs\2.000\host_tools\build\include" -I"C:\Program Files (x86)\SCE\PSP2 SDKs\2.000\target\include" -I"C:\Program Files (x86)\SCE\PSP2 SDKs\2.000\target\include_common" -g -O0 "H:\7. Semester\Spielekonsolenprogrammierung\Project\RubiksCube\RubiksCube\Cube.cpp"
+       Link:
+         C:\Program Files (x86)\SCE\PSP2 SDKs\2.000\host_tools\build\bin\psp2ld32.exe -o "H:\7. Semester\Spielekonsolenprogrammierung\Project\RubiksCube\PSVita_Debug\RubiksCube.self" -L"C:\Program Files (x86)\SCE\PSP2 SDKs\2.000\target\lib" --start-group PSVita_Debug\basic_f_gxp.obj "PSVita_Debug\basic_v _gxp.obj" PSVita_Debug\clear_f_gxp.obj PSVita_Debug\clear_v_gxp.obj PSVita_Debug\Animator.o PSVita_Debug\Cube.o PSVita_Debug\InputSystem.o PSVita_Debug\Logic.o PSVita_Debug\Main.o PSVita_Debug\RenderAssistant.o PSVita_Debug\Side.o "-lSceGxm_stub" "-lSceCtrl_stub" "-lSceDisplay_stub" "-lSceDbg_stub" "-lSceDbgFont" libSceSysmodule_stub.a libSceTouch_stub.a --end-group
+         RubiksCube.vcxproj -> H:\7. Semester\Spielekonsolenprogrammierung\Project\RubiksCube\PSVita_Debug\RubiksCube.self
+       FinalizeBuildStatus:
+         Die Datei "PSVita_Debug\RubiksCube.unsuccessfulbuild" wird gelöscht.
+         Aktualisieren des Timestamps von "PSVita_Debug\RubiksCube.lastbuildstate".
+     1>Die Erstellung des Projekts "H:\7. Semester\Spielekonsolenprogrammierung\Project\RubiksCube\RubiksCube\RubiksCube.vcxproj" ist abgeschlossen, build Ziel(e).
+
+Das Erstellen war erfolgreich.
+
+Verstrichene Zeit 00:00:01.87

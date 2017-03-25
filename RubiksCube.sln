@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RubiksCube", "RubiksCube\RubiksCube.vcxproj", "{AC8432AC-B304-461E-A481-652126178E2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|PSVita = Debug|PSVita
+		Release|PSVita = Release|PSVita
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC8432AC-B304-461E-A481-652126178E2B}.Debug|PSVita.ActiveCfg = Debug|PSVita
+		{AC8432AC-B304-461E-A481-652126178E2B}.Debug|PSVita.Build.0 = Debug|PSVita
+		{AC8432AC-B304-461E-A481-652126178E2B}.Release|PSVita.ActiveCfg = Release|PSVita
+		{AC8432AC-B304-461E-A481-652126178E2B}.Release|PSVita.Build.0 = Release|PSVita
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
